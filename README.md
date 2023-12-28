@@ -10,7 +10,7 @@
 
 <p align="center" >
   
-  <a href="[https://github.com/your-username](https://github.com/YassineOurara)" target="blank">
+  <a href="[https://github.com/YassineOurara](https://github.com/YassineOurara)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="32" width="32" />
   </a>  
   <a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" /></a> 
