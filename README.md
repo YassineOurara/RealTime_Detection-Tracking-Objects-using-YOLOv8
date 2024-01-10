@@ -21,8 +21,6 @@ During training, the model learned to recognize and localize objects within imag
 
 The utilization of these tools and frameworks underscores a commitment to achieving optimal model performance. The combination of Google Colab's computational resources and YOLOv8's advanced architecture ensures a well-trained model capable of accurate and efficient predictions on new, unseen data.</p>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MSgQ48ofFu3MJCSTBaKgB405jIh3aIzk#scrollTo=IMkmn0Wr-JFq)
-
 ### Test
 
 <p align="left">
