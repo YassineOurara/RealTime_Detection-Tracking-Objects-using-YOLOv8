@@ -31,11 +31,6 @@ By leveraging OpenCV, the model was applied to a variety of scenarios, enabling 
 The use of OpenCV for real-time testing enhances the practical applicability of the trained model, ensuring its reliability and effectiveness in dynamic, real-world settings.
 </p>
     
-### All Steps 
-
-| ![birdHH](https://github.com/YassineOurara/RealTime_Detection-Tracking-Objects-using-YOLOv8/assets/101317995/81298116-bd88-4d0e-8df4-f87821edf4cd) **Dataset** | ![birdHH](https://github.com/YassineOurara/RealTime_Detection-Tracking-Objects-using-YOLOv8/assets/101317995/81298116-bd88-4d0e-8df4-f87821edf4cd) **Annotation** | ![birdHH](https://github.com/YassineOurara/RealTime_Detection-Tracking-Objects-using-YOLOv8/assets/101317995/81298116-bd88-4d0e-8df4-f87821edf4cd) **Prediction** | ![birdHH](https://github.com/YassineOurara/RealTime_Detection-Tracking-Objects-using-YOLOv8/assets/101317995/81298116-bd88-4d0e-8df4-f87821edf4cd) **Test** |
-| --- | --- | --- | --- |
-
 
 
 <p align="center" >
